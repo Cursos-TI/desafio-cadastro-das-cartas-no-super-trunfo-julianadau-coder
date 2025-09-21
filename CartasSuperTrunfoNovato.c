@@ -20,7 +20,7 @@ int main(){
     char estadoD[30] = "Bahia";
     char cidadeD[30] = "Salvador";
     float areaKm2D = 693.000;
-    float pibD = 2413250.367;
+    float pibD = 24132540.367;
     int populacaoD = 2886698;
     int pontoturisticoD = 25;
 
